@@ -22,7 +22,7 @@ public class HelloWebApp extends HttpServlet {
         	//out.println("<body bgcolor=\"Green\">");
         	out.println("<h1>Hello to Amdocs</h1>");
         	
-        	out.println("<h3>Demo Java Project for Amdocs DevOps Mar-2022 from Prashant Beniwal</h3>");
+        	out.println("<h3>Demo Java Project for Amdocs DevOps Session on 1-Apr-2022 by Prashant Beniwal</h3>");
         	
         	out.println("<p>A Random Number v1 : <strong>" + Math.random() + "</strong></p>");
            	
